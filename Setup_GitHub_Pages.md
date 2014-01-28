@@ -18,6 +18,7 @@ ssh-add id_rsa
 clone代码仓库`roothoo.github.io`：
   ```
 git clone git@github.com:roothoo/roothoo.github.io.git
+
   ```
 进入文件夹`roothoo.github.io`，新建index.html文件，并上传到github:
   ```
