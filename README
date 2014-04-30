@@ -7,3 +7,4 @@ readme
 readme
 readme
 readme
+ssh -T git@github.com
